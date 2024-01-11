@@ -65,7 +65,7 @@ function App() {
         <Routes>
           <Route
             exact
-            path="/"
+            path="/task_master/"
             element={
               <>
                 <AddTask onAdd={onAdd} />
@@ -73,7 +73,7 @@ function App() {
               </>
             }
           />
-          <Route exact path="/about" element={<About />} />
+          <Route exact path="/task_master/about" element={<About />} />
         </Routes>
 
         <Footer />

@@ -1,3 +1,13 @@
+# https://uvthegreat.github.io/task_master/
+This project is a task master in which you can save your task that you are going to do and delete them when it is done.
+
+This projest is made using Reactjs 
+In this project I have implemented all CRUD (create, Read, Update and Delete) operation.
+I have also used react Router in this project to toggle between pages.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
